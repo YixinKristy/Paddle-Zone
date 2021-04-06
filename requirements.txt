@@ -1,0 +1,6 @@
+paddlegan
+paddleclas
+paddleseg
+paddledet
+paddlex
+visualdl
